@@ -1,3 +1,3 @@
-# IOT_SMART_HOME
+# Dream Guard Manager
 
-Checkcheck
+Dream Guard Manager GUI
